@@ -23,11 +23,10 @@
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   }
-  
 
-  h2 {
-    margin-bottom: 20px;s 
-    font-size: 36px;
+  h1 {
+    display: inline-block;
+    font-size: 48px;
   }
 
   h3 {
@@ -46,7 +45,7 @@
     background-color: #2589bd;
   }
   
-footer {
+  footer {
     padding: 30px;
     clear: both;
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -56,11 +55,6 @@ footer {
 
   footer h2 {
     font-size: 20px;
-  }
-
-  .header h1 {
-    display: inline-block;
-    font-size: 48px;
   }
   
   .header h1 .seo {
@@ -107,7 +101,11 @@ footer {
     display: inline-block;
     margin-left: 20px;
   }
-  
+
+  .content h2{
+      font-size: 36px;
+      margin-bottom: 20px;
+  }
 
   .benefits {
     margin-bottom: 32px;
@@ -121,7 +119,7 @@ footer {
   }
   
   
-  .search-engine-optimization {
+  .whatwedo {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -129,35 +127,9 @@ footer {
     background-color: #0072bb;
     color: #ffffff;
   }
-  
-  .online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-  }
-  
-  .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-  }
-  
-  .search-engine-optimization img {
+
+  .whatwedo img {
     max-height: 200px;
   }
-  
-  .online-reputation-management img {
-    max-height: 200px;
-  }
-  
-  .social-media-marketing img {
-    max-height: 200px;
-  }
-  
+
   
