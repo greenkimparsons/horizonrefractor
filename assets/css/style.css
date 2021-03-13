@@ -24,6 +24,13 @@
     "Lucida Sans", Arial, sans-serif;
   }
   
+
+  h2 {
+    margin-bottom: 20px;s 
+    font-size: 36px;
+  }
+
+  
   .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -172,20 +179,6 @@
     max-height: 200px;
   }
   
-  .search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-  }
-  
-  .online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-  }
-  
-  .social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-  }
   
   .footer {
     padding: 30px;
